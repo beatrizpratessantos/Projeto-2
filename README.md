@@ -14,7 +14,7 @@ Demonstrar a separação de responsabilidades:
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Linguagem:** Java 17+
+* **Linguagem:** Java 
 * **Paradigma:** Orientação a Objetos
 * **Padrões de Projeto:** Factory Method e Builder
 
